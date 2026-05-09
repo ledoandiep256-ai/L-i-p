@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: QUẢN LÝ HỘI VIÊN CỰU CHIẾN BINH - MOBILE \u0026 CLOUD",
+  "description": "Hệ thống quản lý hội viên Cựu chiến binh đa đơn vị, tối ưu hóa cho điện thoại, tích hợp Cloud Firebase để đồng bộ dữ liệu và quản lý chi hội bằng mã QR.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
